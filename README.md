@@ -19,8 +19,11 @@ This repository contains **30 days of JavaScript code**, with each day's program
 - Conditional statements and loops
 - Functions, parameters, and return values
 - Arrays and objects
+- Object manipulation and nested objects
+- Object destructuring and freezing
+- String methods and array methods
 - Scope and execution context
-- Higher-order functions and array methods
+- Higher-order functions and advanced array methods
 - DOM manipulation and browser events
 - Asynchronous JavaScript, promises, and Fetch
 - Object-oriented JavaScript, prototypes, and closures
@@ -33,7 +36,7 @@ This repository contains **30 days of JavaScript code**, with each day's program
 | Day 01 | Personal Expense Tracker — Variables, Constants, Data Types, Console Methods | ✅ Completed |
 | Day 02 | Shopping Cart Price Calculator — Type Conversion, Arithmetic Operations, Comparisons, Primitive Value Copying | ✅ Completed |
 | Day 03 | Student Result Management System — Arrays, Objects, Functions, Loops, Conditional Statements, Grade Calculation | ✅ Completed |
-| Day 04 | Upcoming Program | ⬜ Planned |
+| Day 04 | Smart Contact Book — Nested Objects, Object Destructuring, String Methods, Object.freeze(), find(), filter(), map() | ✅ Completed |
 | Day 05 | Upcoming Program | ⬜ Planned |
 | Day 06–10 | Beginner JavaScript Programs | ⬜ Planned |
 | Day 11–20 | Intermediate JavaScript Programs | ⬜ Planned |
@@ -84,6 +87,6 @@ Additional concepts will be explored as needed to strengthen understanding and b
 
 ## 🔥 Progress
 
-**Day 03 complete — 27 days to go! 🎯**
+**Day 04 complete — 26 days to go! 🎯**
 
 Learning step by step, writing code every day, and building a stronger foundation in JavaScript.
