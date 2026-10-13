@@ -6,41 +6,42 @@ This repository contains **30 days of JavaScript code**, with each day's program
 
 ## 🎯 Goals
 
-- Build a strong understanding of JavaScript fundamentals.
-- Demonstrate concepts through practical coding programs.
-- Progress from beginner to intermediate and advanced topics.
-- Develop problem-solving and debugging skills.
-- Prepare for frontend development, backend development, and full-stack applications.
+* Build a strong understanding of JavaScript fundamentals.
+* Demonstrate concepts through practical coding programs.
+* Progress from beginner to intermediate and advanced topics.
+* Develop problem-solving and debugging skills.
+* Prepare for frontend development, backend development, and full-stack applications.
 
 ## 📚 Learning Roadmap
 
-- Variables, constants, and data types
-- Type conversion and operators
-- Conditional statements and loops
-- Functions, parameters, and return values
-- Arrays and objects
-- Object manipulation and nested objects
-- Object destructuring and freezing
-- String methods and array methods
-- Scope and execution context
-- Higher-order functions and advanced array methods
-- DOM manipulation and browser events
-- Asynchronous JavaScript, promises, and Fetch
-- Object-oriented JavaScript, prototypes, and closures
-- APIs and practical application development
+* Variables, constants, and data types
+* Type conversion and operators
+* Conditional statements and loops
+* Functions, parameters, and return values
+* Arrays and objects
+* Object manipulation and nested objects
+* Object destructuring and freezing
+* String methods and array methods
+* Scope and execution context
+* Higher-order functions and advanced array methods
+* DOM manipulation and browser events
+* Asynchronous JavaScript, promises, and Fetch
+* Object-oriented JavaScript, prototypes, and closures
+* APIs and practical application development
 
 ## 📅 30-Day Progress
 
-| Day | Program / Code Concepts | Status |
-|---|---|---|
-| Day 01 | Personal Expense Tracker — Variables, Constants, Data Types, Console Methods | ✅ Completed |
-| Day 02 | Shopping Cart Price Calculator — Type Conversion, Arithmetic Operations, Comparisons, Primitive Value Copying | ✅ Completed |
-| Day 03 | Student Result Management System — Arrays, Objects, Functions, Loops, Conditional Statements, Grade Calculation | ✅ Completed |
-| Day 04 | Smart Contact Book — Nested Objects, Object Destructuring, String Methods, Object.freeze(), find(), filter(), map() | ✅ Completed |
-| Day 05 | Upcoming Program | ⬜ Planned |
-| Day 06–10 | Beginner JavaScript Programs | ⬜ Planned |
-| Day 11–20 | Intermediate JavaScript Programs | ⬜ Planned |
-| Day 21–30 | Advanced JavaScript Programs | ⬜ Planned |
+| Day       | Program / Code Concepts                                                                                             | Status      |
+| --------- | ------------------------------------------------------------------------------------------------------------------- | ----------- |
+| Day 01    | Personal Expense Tracker — Variables, Constants, Data Types, Console Methods                                        | ✅ Completed |
+| Day 02    | Shopping Cart Price Calculator — Type Conversion, Arithmetic Operations, Comparisons, Primitive Value Copying       | ✅ Completed |
+| Day 03    | Student Result Management System — Arrays, Objects, Functions, Loops, Conditional Statements, Grade Calculation     | ✅ Completed |
+| Day 04    | Smart Contact Book — Nested Objects, Object Destructuring, String Methods, Object.freeze(), find(), filter(), map() | ✅ Completed |
+| Day 05    | Variable Scope Explorer — Function Scope, Block Scope, Lexical Scope, Variable Shadowing, Scope Chain               | ✅ Completed |
+| Day 06    | Callback Task Processor — Callbacks, Higher-Order Functions, Arrow Functions, Return Values                         | ⬜ Planned   |
+| Day 07–10 | Beginner JavaScript Programs                                                                                        | ⬜ Planned   |
+| Day 11–20 | Intermediate JavaScript Programs                                                                                    | ⬜ Planned   |
+| Day 21–30 | Advanced JavaScript Programs                                                                                        | ⬜ Planned   |
 
 *Program descriptions and progress will be updated as the journey continues.*
 
@@ -55,6 +56,7 @@ JS-Beginner-to-Advanced-30-Days/
 ├── day3.js
 ├── day4.js
 ├── day5.js
+├── day6.js
 ├── ...
 ├── day30.js
 └── README.md
@@ -64,20 +66,20 @@ Each file contains a concept-focused JavaScript program with explanatory comment
 
 ## 🧠 Learning Approach
 
-- **Concept-focused:** Each program demonstrates specific JavaScript concepts.
-- **Practical coding:** Concepts are applied in small, understandable programs.
-- **Progressive difficulty:** Programs advance from beginner fundamentals to intermediate and advanced concepts.
-- **Code documentation:** Brief comments explain important concepts and why they are used.
-- **Consistent progress:** The goal is to build and document one main program per day.
+* **Concept-focused:** Each program demonstrates specific JavaScript concepts.
+* **Practical coding:** Concepts are applied in small, understandable programs.
+* **Progressive difficulty:** Programs advance from beginner fundamentals to intermediate and advanced concepts.
+* **Code documentation:** Brief comments explain important concepts and why they are used.
+* **Consistent progress:** The goal is to build and document one main program per day.
 
 This repository serves as both a personal learning resource and a reference for other beginners learning JavaScript.
 
 ## 🛠️ Tools & Technologies
 
-- JavaScript (ES6+)
-- Node.js
-- Visual Studio Code
-- Git and GitHub
+* JavaScript (ES6+)
+* Node.js
+* Visual Studio Code
+* Git and GitHub
 
 ## 📚 Learning Source
 
@@ -87,6 +89,6 @@ Additional concepts will be explored as needed to strengthen understanding and b
 
 ## 🔥 Progress
 
-**Day 04 complete — 26 days to go! 🎯**
+**Day 05 complete — 25 days to go! 🎯**
 
 Learning step by step, writing code every day, and building a stronger foundation in JavaScript.
