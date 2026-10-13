@@ -23,7 +23,7 @@ This repository contains **30 days of JavaScript code**, with each day's program
 * Object destructuring and freezing
 * String methods and array methods
 * Scope and execution context
-* Higher-order functions and advanced array methods
+* Callbacks and higher-order functions
 * DOM manipulation and browser events
 * Asynchronous JavaScript, promises, and Fetch
 * Object-oriented JavaScript, prototypes, and closures
@@ -38,8 +38,9 @@ This repository contains **30 days of JavaScript code**, with each day's program
 | Day 03    | Student Result Management System — Arrays, Objects, Functions, Loops, Conditional Statements, Grade Calculation     | ✅ Completed |
 | Day 04    | Smart Contact Book — Nested Objects, Object Destructuring, String Methods, Object.freeze(), find(), filter(), map() | ✅ Completed |
 | Day 05    | Variable Scope Explorer — Function Scope, Block Scope, Lexical Scope, Variable Shadowing, Scope Chain               | ✅ Completed |
-| Day 06    | Callback Task Processor — Callbacks, Higher-Order Functions, Arrow Functions, Return Values                         | ⬜ Planned   |
-| Day 07–10 | Beginner JavaScript Programs                                                                                        | ⬜ Planned   |
+| Day 06    | Callback Task Processor — Callbacks, Higher-Order Functions, Arrow Functions, Return Values                         | ✅ Completed |
+| Day 07    | Upcoming Program                                                                                                    | ⬜ Planned   |
+| Day 08–10 | Beginner JavaScript Programs                                                                                        | ⬜ Planned   |
 | Day 11–20 | Intermediate JavaScript Programs                                                                                    | ⬜ Planned   |
 | Day 21–30 | Advanced JavaScript Programs                                                                                        | ⬜ Planned   |
 
@@ -57,6 +58,7 @@ JS-Beginner-to-Advanced-30-Days/
 ├── day4.js
 ├── day5.js
 ├── day6.js
+├── day7.js
 ├── ...
 ├── day30.js
 └── README.md
@@ -67,7 +69,7 @@ Each file contains a concept-focused JavaScript program with explanatory comment
 ## 🧠 Learning Approach
 
 * **Concept-focused:** Each program demonstrates specific JavaScript concepts.
-* **Practical coding:** Concepts are applied in small, understandable programs.
+* **Practical coding:** Concepts are applied in understandable, practical programs.
 * **Progressive difficulty:** Programs advance from beginner fundamentals to intermediate and advanced concepts.
 * **Code documentation:** Brief comments explain important concepts and why they are used.
 * **Consistent progress:** The goal is to build and document one main program per day.
@@ -89,6 +91,6 @@ Additional concepts will be explored as needed to strengthen understanding and b
 
 ## 🔥 Progress
 
-**Day 05 complete — 25 days to go! 🎯**
+**Day 06 complete — 24 days to go! 🎯**
 
 Learning step by step, writing code every day, and building a stronger foundation in JavaScript.
