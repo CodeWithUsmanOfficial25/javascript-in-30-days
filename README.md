@@ -2,7 +2,7 @@
 
 My 30-day journey to learn JavaScript from beginner to advanced through practical coding and concept-focused programs.
 
-This repository contains **30 days of JavaScript code**, with each day's program designed to demonstrate and reinforce the concepts I'm learning. The goal is to build a strong foundation in JavaScript and gradually progress toward advanced concepts and real-world applications.
+This repository contains **30 days of JavaScript code**, with each day's program designed to demonstrate and reinforce important concepts. The goal is to build a strong foundation in JavaScript and gradually progress toward advanced concepts and real-world applications.
 
 ## 🎯 Goals
 
@@ -24,6 +24,8 @@ This repository contains **30 days of JavaScript code**, with each day's program
 * String methods and array methods
 * Scope and execution context
 * Callbacks and higher-order functions
+* The `this` keyword and function context
+* Method borrowing with `call()`, `apply()`, and `bind()`
 * DOM manipulation and browser events
 * Asynchronous JavaScript, promises, and Fetch
 * Object-oriented JavaScript, prototypes, and closures
@@ -31,18 +33,20 @@ This repository contains **30 days of JavaScript code**, with each day's program
 
 ## 📅 30-Day Progress
 
-| Day       | Program / Code Concepts                                                                                             | Status      |
-| --------- | ------------------------------------------------------------------------------------------------------------------- | ----------- |
-| Day 01    | Personal Expense Tracker — Variables, Constants, Data Types, Console Methods                                        | ✅ Completed |
-| Day 02    | Shopping Cart Price Calculator — Type Conversion, Arithmetic Operations, Comparisons, Primitive Value Copying       | ✅ Completed |
-| Day 03    | Student Result Management System — Arrays, Objects, Functions, Loops, Conditional Statements, Grade Calculation     | ✅ Completed |
-| Day 04    | Smart Contact Book — Nested Objects, Object Destructuring, String Methods, Object.freeze(), find(), filter(), map() | ✅ Completed |
-| Day 05    | Variable Scope Explorer — Function Scope, Block Scope, Lexical Scope, Variable Shadowing, Scope Chain               | ✅ Completed |
-| Day 06    | Callback Task Processor — Callbacks, Higher-Order Functions, Arrow Functions, Return Values                         | ✅ Completed |
-| Day 07    | Upcoming Program                                                                                                    | ⬜ Planned   |
-| Day 08–10 | Beginner JavaScript Programs                                                                                        | ⬜ Planned   |
-| Day 11–20 | Intermediate JavaScript Programs                                                                                    | ⬜ Planned   |
-| Day 21–30 | Advanced JavaScript Programs                                                                                        | ⬜ Planned   |
+| Day       | Program / Code Concepts                                                                                                     | Status      |
+| --------- | --------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| Day 01    | Personal Expense Tracker — Variables, Constants, Data Types, Console Methods                                                | ✅ Completed |
+| Day 02    | Shopping Cart Price Calculator — Type Conversion, Arithmetic Operations, Comparisons, Primitive Value Copying               | ✅ Completed |
+| Day 03    | Student Result Management System — Arrays, Objects, Functions, Loops, Conditional Statements, Grade Calculation             | ✅ Completed |
+| Day 04    | Smart Contact Book — Nested Objects, Object Destructuring, String Methods, `Object.freeze()`, `find()`, `filter()`, `map()` | ✅ Completed |
+| Day 05    | Variable Scope Explorer — Function Scope, Block Scope, Lexical Scope, Variable Shadowing, Scope Chain                       | ✅ Completed |
+| Day 06    | Callback Task Processor — Callbacks, Higher-Order Functions, Arrow Functions, Return Values                                 | ✅ Completed |
+| Day 07    | Service Booking Manager — `this`, Object Methods, `call()`, `apply()`, `bind()`                                             | ✅ Completed |
+| Day 08    | Upcoming Program                                                                                                            | ⬜ Planned   |
+| Day 09    | Upcoming Program                                                                                                            | ⬜ Planned   |
+| Day 10    | Upcoming Program                                                                                                            | ⬜ Planned   |
+| Day 11–20 | Intermediate JavaScript Programs                                                                                            | ⬜ Planned   |
+| Day 21–30 | Advanced JavaScript Programs                                                                                                | ⬜ Planned   |
 
 *Program descriptions and progress will be updated as the journey continues.*
 
@@ -64,15 +68,16 @@ JS-Beginner-to-Advanced-30-Days/
 └── README.md
 ```
 
-Each file contains a concept-focused JavaScript program with explanatory comments to make the code easier to understand.
+Each file contains a concept-focused JavaScript program with explanatory comments and expected output to make the code easier for beginners to understand.
 
 ## 🧠 Learning Approach
 
-* **Concept-focused:** Each program demonstrates specific JavaScript concepts.
-* **Practical coding:** Concepts are applied in understandable, practical programs.
+* **Concept-focused:** Each program introduces or reinforces specific JavaScript concepts.
+* **Practical coding:** Concepts are applied through understandable, real-world-inspired programs.
 * **Progressive difficulty:** Programs advance from beginner fundamentals to intermediate and advanced concepts.
-* **Code documentation:** Brief comments explain important concepts and why they are used.
-* **Consistent progress:** The goal is to build and document one main program per day.
+* **Code documentation:** Brief comments explain what the code does, which concepts are being used, and why they are useful.
+* **Expected output:** Programs include commented output to help learners verify their results.
+* **Consistent progress:** The goal is to build, test, and document one main program per day.
 
 This repository serves as both a personal learning resource and a reference for other beginners learning JavaScript.
 
@@ -91,6 +96,8 @@ Additional concepts will be explored as needed to strengthen understanding and b
 
 ## 🔥 Progress
 
-**Day 06 complete — 24 days to go! 🎯**
+**Day 07 complete — 23 days to go! 🎯**
 
 Learning step by step, writing code every day, and building a stronger foundation in JavaScript.
+
+**One day, one program, one step closer to becoming a better developer.** 🚀
