@@ -26,6 +26,7 @@ This repository contains **30 days of JavaScript code**, with each day's program
 * Callbacks and higher-order functions
 * The `this` keyword and function context
 * Method borrowing with `call()`, `apply()`, and `bind()`
+* Rest parameters and spread syntax
 * DOM manipulation and browser events
 * Asynchronous JavaScript, promises, and Fetch
 * Object-oriented JavaScript, prototypes, and closures
@@ -42,7 +43,7 @@ This repository contains **30 days of JavaScript code**, with each day's program
 | Day 05    | Variable Scope Explorer — Function Scope, Block Scope, Lexical Scope, Variable Shadowing, Scope Chain                       | ✅ Completed |
 | Day 06    | Callback Task Processor — Callbacks, Higher-Order Functions, Arrow Functions, Return Values                                 | ✅ Completed |
 | Day 07    | Service Booking Manager — `this`, Object Methods, `call()`, `apply()`, `bind()`                                             | ✅ Completed |
-| Day 08    | Upcoming Program                                                                                                            | ⬜ Planned   |
+| Day 08    | Smart Profile & Data Manager — Rest Parameters, Spread Syntax, Array and Object Copying, Destructuring, Default Values      | ✅ Completed |
 | Day 09    | Upcoming Program                                                                                                            | ⬜ Planned   |
 | Day 10    | Upcoming Program                                                                                                            | ⬜ Planned   |
 | Day 11–20 | Intermediate JavaScript Programs                                                                                            | ⬜ Planned   |
@@ -63,6 +64,7 @@ JS-Beginner-to-Advanced-30-Days/
 ├── day5.js
 ├── day6.js
 ├── day7.js
+├── day8.js
 ├── ...
 ├── day30.js
 └── README.md
@@ -96,7 +98,7 @@ Additional concepts will be explored as needed to strengthen understanding and b
 
 ## 🔥 Progress
 
-**Day 07 complete — 23 days to go! 🎯**
+**Day 08 complete — 22 days to go! 🎯**
 
 Learning step by step, writing code every day, and building a stronger foundation in JavaScript.
 
