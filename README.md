@@ -30,6 +30,8 @@ This repository contains **30 days of JavaScript code**, with each day's program
 * Closures, private variables, and encapsulation
 * Constructor functions and object instances
 * Prototypes and prototype-based method sharing
+* Array sorting and custom comparison functions
+* Data transformation with `map()`, `filter()`, and `reduce()`
 * DOM manipulation and browser events
 * Asynchronous JavaScript, promises, and Fetch
 * Object-oriented JavaScript and classes
@@ -37,20 +39,21 @@ This repository contains **30 days of JavaScript code**, with each day's program
 
 ## 📅 30-Day Progress
 
-| Day       | Program / Code Concepts                                                                                                           | Status      |
-| --------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| Day 01    | Personal Expense Tracker — Variables, Constants, Data Types, Console Methods                                                      | ✅ Completed |
-| Day 02    | Shopping Cart Price Calculator — Type Conversion, Arithmetic Operations, Comparisons, Primitive Value Copying                     | ✅ Completed |
-| Day 03    | Student Result Management System — Arrays, Objects, Functions, Loops, Conditional Statements, Grade Calculation                   | ✅ Completed |
-| Day 04    | Smart Contact Book — Nested Objects, Object Destructuring, String Methods, `Object.freeze()`, `find()`, `filter()`, `map()`       | ✅ Completed |
-| Day 05    | Variable Scope Explorer — Function Scope, Block Scope, Lexical Scope, Variable Shadowing, Scope Chain                             | ✅ Completed |
-| Day 06    | Callback Task Processor — Callbacks, Higher-Order Functions, Arrow Functions, Return Values                                       | ✅ Completed |
-| Day 07    | Service Booking Manager — `this`, Object Methods, `call()`, `apply()`, `bind()`                                                   | ✅ Completed |
-| Day 08    | Smart Profile & Data Manager — Rest Parameters, Spread Syntax, Array and Object Copying, Destructuring, Default Values            | ✅ Completed |
-| Day 09    | Secure Account & Session Manager — Closures, Lexical Scope, Private Variables, Encapsulation, Factory Functions, State Management | ✅ Completed |
-| Day 10    | Product Management System — Constructor Functions, `new`, Prototypes, Shared Methods, Object Instances, `instanceof`              | ✅ Completed |
-| Day 11–20 | Intermediate JavaScript Programs                                                                                                  | ⬜ Planned   |
-| Day 21–30 | Advanced JavaScript Programs                                                                                                      | ⬜ Planned   |
+| Day       | Program / Code Concepts                                                                                                                           | Status      |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| Day 01    | Personal Expense Tracker — Variables, Constants, Data Types, Console Methods                                                                      | ✅ Completed |
+| Day 02    | Shopping Cart Price Calculator — Type Conversion, Arithmetic Operations, Comparisons, Primitive Value Copying                                     | ✅ Completed |
+| Day 03    | Student Result Management System — Arrays, Objects, Functions, Loops, Conditional Statements, Grade Calculation                                   | ✅ Completed |
+| Day 04    | Smart Contact Book — Nested Objects, Object Destructuring, String Methods, `Object.freeze()`, `find()`, `filter()`, `map()`                       | ✅ Completed |
+| Day 05    | Variable Scope Explorer — Function Scope, Block Scope, Lexical Scope, Variable Shadowing, Scope Chain                                             | ✅ Completed |
+| Day 06    | Callback Task Processor — Callbacks, Higher-Order Functions, Arrow Functions, Return Values                                                       | ✅ Completed |
+| Day 07    | Service Booking Manager — `this`, Object Methods, `call()`, `apply()`, `bind()`                                                                   | ✅ Completed |
+| Day 08    | Smart Profile & Data Manager — Rest Parameters, Spread Syntax, Array and Object Copying, Destructuring, Default Values                            | ✅ Completed |
+| Day 09    | Secure Account & Session Manager — Closures, Lexical Scope, Private Variables, Encapsulation, Factory Functions, State Management                 | ✅ Completed |
+| Day 10    | Product Management System — Constructor Functions, `new`, Prototypes, Shared Methods, Object Instances, `instanceof`                              | ✅ Completed |
+| Day 11    | Product Inventory Search & Sort System — `sort()`, Custom Comparison Functions, `find()`, `filter()`, `map()`, `reduce()`, Inventory Calculations | ✅ Completed |
+| Day 12–20 | Intermediate JavaScript Programs                                                                                                                  | ⬜ Planned   |
+| Day 21–30 | Advanced JavaScript Programs                                                                                                                      | ⬜ Planned   |
 
 *Program descriptions and progress will be updated as the journey continues.*
 
@@ -70,6 +73,7 @@ JS-Beginner-to-Advanced-30-Days/
 ├── day8.js
 ├── day9.js
 ├── day10.js
+├── day11.js
 ├── ...
 ├── day30.js
 └── README.md
@@ -103,7 +107,7 @@ Additional concepts will be explored as needed to strengthen understanding and b
 
 ## 🔥 Progress
 
-**Day 10 complete — 20 days to go! 🎯**
+**Day 11 complete — 19 days to go! 🎯**
 
 Learning step by step, writing code every day, and building a stronger foundation in JavaScript.
 
