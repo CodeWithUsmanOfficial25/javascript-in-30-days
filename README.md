@@ -32,10 +32,11 @@ This repository contains **30 days of JavaScript code**, with each day's program
 - Prototypes and prototype-based method sharing
 - Array sorting and custom comparison functions
 - Data transformation with `map()`, `filter()`, and `reduce()`
+- ES6 classes, inheritance, and the `super()` keyword
+- Getters, setters, and static methods
 - DOM manipulation and browser events
 - Asynchronous JavaScript, promises, and Fetch
-- Object-oriented JavaScript and classes
-- APIs and practical application development
+- Object-oriented JavaScript and practical APIs
 
 ## 📅 30-Day Progress
 
@@ -53,7 +54,8 @@ This repository contains **30 days of JavaScript code**, with each day's program
 | Day 10 | Product Management System — Constructor Functions, `new`, Prototypes, Shared Methods, Object Instances, `instanceof` | ✅ Completed |
 | Day 11 | Product Inventory Search & Sort System — `sort()`, Custom Comparison Functions, `find()`, `filter()`, `map()`, `reduce()`, Inventory Calculations | ✅ Completed |
 | Day 12 | Prototype Inheritance Manager — Prototypes, Prototype Chain, `Object.create()`, Method Inheritance, Method Overriding | ✅ Completed |
-| Day 13–20 | Intermediate JavaScript Programs | ⬜ Planned |
+| Day 13 | Employee Payroll Management System — ES6 Classes, Inheritance, `super()`, Method Overriding, Getters, Setters, Static Methods | ✅ Completed |
+| Day 14–20 | Intermediate JavaScript Programs | ⬜ Planned |
 | Day 21–30 | Advanced JavaScript Programs | ⬜ Planned |
 
 *Program descriptions and progress will be updated as the journey continues.*
@@ -76,6 +78,7 @@ JS-Beginner-to-Advanced-30-Days/
 ├── day10.js
 ├── day11.js
 ├── day12.js
+├── day13.js
 ├── ...
 ├── day30.js
 └── README.md
@@ -109,7 +112,7 @@ Additional concepts will be explored as needed to strengthen understanding and b
 
 ## 🔥 Progress
 
-**Day 12 complete — 18 days to go! 🎯**
+**Day 13 complete — 17 days to go! 🎯**
 
 Learning step by step, writing code every day, and building a stronger foundation in JavaScript.
 
