@@ -1,3 +1,4 @@
+
 # JavaScript in 30 Days 🚀
 
 My 30-day journey to learn JavaScript from beginner to advanced through practical coding and concept-focused programs.
@@ -34,9 +35,13 @@ This repository contains **30 days of JavaScript code**, with each day's program
 - Data transformation with `map()`, `filter()`, and `reduce()`
 - ES6 classes, inheritance, and the `super()` keyword
 - Getters, setters, and static methods
+- Error handling with `try...catch...finally`
+- Throwing errors and creating custom error classes
+- Input validation and defensive programming
 - DOM manipulation and browser events
 - Asynchronous JavaScript, promises, and Fetch
-- Object-oriented JavaScript and practical APIs
+- JavaScript modules and practical APIs
+- Object-oriented JavaScript and real-world applications
 
 ## 📅 30-Day Progress
 
@@ -55,7 +60,8 @@ This repository contains **30 days of JavaScript code**, with each day's program
 | Day 11 | Product Inventory Search & Sort System — `sort()`, Custom Comparison Functions, `find()`, `filter()`, `map()`, `reduce()`, Inventory Calculations | ✅ Completed |
 | Day 12 | Prototype Inheritance Manager — Prototypes, Prototype Chain, `Object.create()`, Method Inheritance, Method Overriding | ✅ Completed |
 | Day 13 | Employee Payroll Management System — ES6 Classes, Inheritance, `super()`, Method Overriding, Getters, Setters, Static Methods | ✅ Completed |
-| Day 14–20 | Intermediate JavaScript Programs | ⬜ Planned |
+| Day 14 | Secure Payment Processing System — `try...catch...finally`, `throw`, Custom Errors, Input Validation, Defensive Programming | ✅ Completed |
+| Day 15–20 | Intermediate JavaScript Programs | ⬜ Planned |
 | Day 21–30 | Advanced JavaScript Programs | ⬜ Planned |
 
 *Program descriptions and progress will be updated as the journey continues.*
@@ -79,6 +85,7 @@ JS-Beginner-to-Advanced-30-Days/
 ├── day11.js
 ├── day12.js
 ├── day13.js
+├── day14.js
 ├── ...
 ├── day30.js
 └── README.md
@@ -112,7 +119,7 @@ Additional concepts will be explored as needed to strengthen understanding and b
 
 ## 🔥 Progress
 
-**Day 13 complete — 17 days to go! 🎯**
+**Day 14 complete — 16 days to go! 🎯**
 
 Learning step by step, writing code every day, and building a stronger foundation in JavaScript.
 
