@@ -36,8 +36,9 @@ This repository contains **30 days of JavaScript code**, with each day's program
 - ES6 classes, inheritance, and the `super()` keyword
 - Getters, setters, and static methods
 - Error handling with `try...catch...finally`
-- Throwing errors and creating custom error classes
-- Input validation and defensive programming
+- Throwing errors and input validation
+- Defensive programming and safe data processing
+- Searching, filtering, and generating reports
 - DOM manipulation and browser events
 - Asynchronous JavaScript, promises, and Fetch
 - JavaScript modules and practical APIs
@@ -61,7 +62,8 @@ This repository contains **30 days of JavaScript code**, with each day's program
 | Day 12 | Prototype Inheritance Manager — Prototypes, Prototype Chain, `Object.create()`, Method Inheritance, Method Overriding | ✅ Completed |
 | Day 13 | Employee Payroll Management System — ES6 Classes, Inheritance, `super()`, Method Overriding, Getters, Setters, Static Methods | ✅ Completed |
 | Day 14 | Secure Payment Processing System — `try...catch...finally`, `throw`, Custom Errors, Input Validation, Defensive Programming | ✅ Completed |
-| Day 15–20 | Intermediate JavaScript Programs | ⬜ Planned |
+| Day 15 | Student Record Management System — Array Methods, Searching, Filtering, `reduce()`, Grade Calculation, Input Validation, Error Handling | ✅ Completed |
+| Day 16–20 | Intermediate JavaScript Programs | ⬜ Planned |
 | Day 21–30 | Advanced JavaScript Programs | ⬜ Planned |
 
 *Program descriptions and progress will be updated as the journey continues.*
@@ -86,6 +88,7 @@ JS-Beginner-to-Advanced-30-Days/
 ├── day12.js
 ├── day13.js
 ├── day14.js
+├── day15.js
 ├── ...
 ├── day30.js
 └── README.md
@@ -98,7 +101,7 @@ Each file contains a concept-focused JavaScript program with explanatory comment
 - **Concept-focused:** Each program introduces or reinforces specific JavaScript concepts.
 - **Practical coding:** Concepts are applied through understandable, real-world-inspired programs.
 - **Progressive difficulty:** Programs advance from beginner fundamentals to intermediate and advanced concepts.
-- **Code documentation:** Brief comments explain what the code does, which concepts are being used, and why they are useful.
+- **Code documentation:** Brief comments explain what the code does and why the concepts are useful.
 - **Expected output:** Programs include commented output to help learners verify their results.
 - **Consistent progress:** The goal is to build, test, and document one main program per day.
 
@@ -119,7 +122,7 @@ Additional concepts will be explored as needed to strengthen understanding and b
 
 ## 🔥 Progress
 
-**Day 14 complete — 16 days to go! 🎯**
+**Day 15 complete — 15 days to go! 🎯**
 
 Learning step by step, writing code every day, and building a stronger foundation in JavaScript.
 
