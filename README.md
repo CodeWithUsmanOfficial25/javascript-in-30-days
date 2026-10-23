@@ -1,4 +1,3 @@
-
 # JavaScript in 30 Days 🚀
 
 My 30-day journey to learn JavaScript from beginner to advanced through practical coding and concept-focused programs.
@@ -39,8 +38,10 @@ This repository contains **30 days of JavaScript code**, with each day's program
 - Throwing errors and input validation
 - Defensive programming and safe data processing
 - Searching, filtering, and generating reports
+- Promises and asynchronous task processing
+- `async/await` and asynchronous error handling
 - DOM manipulation and browser events
-- Asynchronous JavaScript, promises, and Fetch
+- Fetch API and working with external data
 - JavaScript modules and practical APIs
 - Object-oriented JavaScript and real-world applications
 
@@ -63,67 +64,12 @@ This repository contains **30 days of JavaScript code**, with each day's program
 | Day 13 | Employee Payroll Management System — ES6 Classes, Inheritance, `super()`, Method Overriding, Getters, Setters, Static Methods | ✅ Completed |
 | Day 14 | Secure Payment Processing System — `try...catch...finally`, `throw`, Custom Errors, Input Validation, Defensive Programming | ✅ Completed |
 | Day 15 | Student Record Management System — Array Methods, Searching, Filtering, `reduce()`, Grade Calculation, Input Validation, Error Handling | ✅ Completed |
-| Day 16–20 | Intermediate JavaScript Programs | ⬜ Planned |
+| Day 16 | Task Processing System — Promises, `async/await`, Asynchronous Execution, Custom Errors, Error Handling, `finally` | ✅ Completed |
+| Day 17–20 | Intermediate JavaScript Programs | ⬜ Planned |
 | Day 21–30 | Advanced JavaScript Programs | ⬜ Planned |
 
 *Program descriptions and progress will be updated as the journey continues.*
 
 ## 📂 Repository Structure
 
-Each day's JavaScript program is stored in a separate file to keep the repository simple, organized, and easy to navigate.
-
-```text
-JS-Beginner-to-Advanced-30-Days/
-├── day1.js
-├── day2.js
-├── day3.js
-├── day4.js
-├── day5.js
-├── day6.js
-├── day7.js
-├── day8.js
-├── day9.js
-├── day10.js
-├── day11.js
-├── day12.js
-├── day13.js
-├── day14.js
-├── day15.js
-├── ...
-├── day30.js
-└── README.md
-```
-
-Each file contains a concept-focused JavaScript program with explanatory comments and expected output to make the code easier for beginners to understand.
-
-## 🧠 Learning Approach
-
-- **Concept-focused:** Each program introduces or reinforces specific JavaScript concepts.
-- **Practical coding:** Concepts are applied through understandable, real-world-inspired programs.
-- **Progressive difficulty:** Programs advance from beginner fundamentals to intermediate and advanced concepts.
-- **Code documentation:** Brief comments explain what the code does and why the concepts are useful.
-- **Expected output:** Programs include commented output to help learners verify their results.
-- **Consistent progress:** The goal is to build, test, and document one main program per day.
-
-This repository serves as both a personal learning resource and a reference for other beginners learning JavaScript.
-
-## 🛠️ Tools & Technologies
-
-- JavaScript (ES6+)
-- Node.js
-- Visual Studio Code
-- Git and GitHub
-
-## 📚 Learning Source
-
-The primary learning resource for this journey is the **Chai aur Code JavaScript course by Hitesh Choudhary**.
-
-Additional concepts will be explored as needed to strengthen understanding and build useful, concept-focused programs.
-
-## 🔥 Progress
-
-**Day 15 complete — 15 days to go! 🎯**
-
-Learning step by step, writing code every day, and building a stronger foundation in JavaScript.
-
-**One day, one program, one step closer to becoming a better developer.** 🚀
+Each day's JavaScript program
