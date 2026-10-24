@@ -62,4 +62,55 @@ This repository contains **30 days of JavaScript code**, with each day's program
 | Day 10 | Product Management System — Constructor Functions, `new`, Prototypes, Shared Methods, Object Instances, `instanceof` | ✅ Completed |
 | Day 11 | Product Inventory Search & Sort System — `sort()`, Custom Comparison Functions, `find()`, `filter()`, `map()`, `reduce()`, Inventory Calculations | ✅ Completed |
 | Day 12 | Prototype Inheritance Manager — Prototypes, Prototype Chain, `Object.create()`, Method Inheritance, Method Overriding | ✅ Completed |
-| Day 13 | Employee Payroll Management
+| Day 13 | Employee Payroll Management System — Classes, Inheritance, Getters, Setters, Static Methods | ✅ Completed |
+| Day 14 | Secure Payment Processing System — `try...catch...finally`, `throw`, Custom Errors, Input Validation | ✅ Completed |
+| Day 15 | Student Record Management System — Array Methods, Searching, Filtering, `reduce()`, Grade Calculation | ✅ Completed |
+| Day 16 | Task Processing System — Promises, `async/await`, Asynchronous Execution, Custom Errors | ✅ Completed |
+| Day 17 | Weather Data Analyzer — `map()`, `filter()`, `reduce()`, `some()`, `every()`, `sort()` | ✅ Completed |
+| Day 18 | Intermediate JavaScript Project — Planned | ⏳ Planned |
+| Day 19 | Intermediate JavaScript Project — Planned | ⏳ Planned |
+| Day 20 | Intermediate JavaScript Project — Planned | ⏳ Planned |
+| Day 21 | Advanced JavaScript Project — Planned | ⏳ Planned |
+| Day 22 | Advanced JavaScript Project — Planned | ⏳ Planned |
+| Day 23 | Advanced JavaScript Project — Planned | ⏳ Planned |
+| Day 24 | Advanced JavaScript Project — Planned | ⏳ Planned |
+| Day 25 | Advanced JavaScript Project — Planned | ⏳ Planned |
+| Day 26 | Advanced JavaScript Project — Planned | ⏳ Planned |
+| Day 27 | Advanced JavaScript Project — Planned | ⏳ Planned |
+| Day 28 | Advanced JavaScript Project — Planned | ⏳ Planned |
+| Day 29 | Advanced JavaScript Project — Planned | ⏳ Planned |
+| Day 30 | Final JavaScript Project — Planned | ⏳ Planned |
+
+## 📂 Repository Structure
+
+```text
+javascript-in-30-days/
+├── day1.js
+├── day2.js
+├── day3.js
+├── ...
+├── day30.js
+└── README.md
+```
+
+## 🎯 Learning Approach
+
+- Practice JavaScript concepts through practical programs.
+- Build projects that gradually increase in complexity.
+- Write readable, maintainable code.
+- Use Git and GitHub to track progress.
+- Strengthen problem-solving skills through hands-on implementation.
+
+## 🛠️ Tools Used
+
+- JavaScript (Node.js)
+- Visual Studio Code
+- Git and GitHub
+
+## 📚 Learning Source
+
+JavaScript learning resources, documentation, and hands-on practice.
+
+## 📈 Current Progress
+
+**Day 17 complete — 13 days to go!** 🚀
