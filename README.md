@@ -6,13 +6,15 @@ This repository contains **30 days of JavaScript code**, with each day's program
 
 ## 🎯 Goals
 
-- Build a strong understanding of JavaScript fundamentals.
-- Demonstrate concepts through practical coding programs.
-- Progress from beginner to intermediate and advanced topics.
-- Develop problem-solving and debugging skills.
-- Prepare for frontend development, backend development, and full-stack applications.
+- Strengthen JavaScript fundamentals through practical coding.
+- Improve problem-solving and logical thinking.
+- Learn modern JavaScript features and programming patterns.
+- Build projects that demonstrate real-world use cases.
+- Maintain consistent coding practice and track progress on GitHub.
 
-## 📚 Learning Roadmap
+## 🗺️ Learning Roadmap
+
+### Beginner JavaScript (Days 1–10)
 
 - Variables, constants, and data types
 - Type conversion and operators
@@ -29,6 +31,9 @@ This repository contains **30 days of JavaScript code**, with each day's program
 - Rest parameters and spread syntax
 - Closures, private variables, and encapsulation
 - Constructor functions and object instances
+
+### Intermediate JavaScript (Days 11–20)
+
 - Prototypes and prototype-based method sharing
 - Array sorting and custom comparison functions
 - Data transformation with `map()`, `filter()`, and `reduce()`
@@ -44,7 +49,19 @@ This repository contains **30 days of JavaScript code**, with each day's program
 - DOM manipulation and browser events
 - Fetch API and working with external data
 - JavaScript modules and practical APIs
+
+### Advanced JavaScript (Days 21–30)
+
 - Object-oriented JavaScript and real-world applications
+- Advanced asynchronous programming
+- API integration and data handling
+- Reusable code and modular architecture
+- Advanced array and object operations
+- Practical application development
+- Error handling and debugging strategies
+- Code organization and maintainability
+- Problem-solving with combined JavaScript concepts
+- A final JavaScript project
 
 ## 📅 30-Day Progress
 
@@ -67,19 +84,19 @@ This repository contains **30 days of JavaScript code**, with each day's program
 | Day 15 | Student Record Management System — Array Methods, Searching, Filtering, `reduce()`, Grade Calculation | ✅ Completed |
 | Day 16 | Task Processing System — Promises, `async/await`, Asynchronous Execution, Custom Errors | ✅ Completed |
 | Day 17 | Weather Data Analyzer — `map()`, `filter()`, `reduce()`, `some()`, `every()`, `sort()` | ✅ Completed |
-| Day 18 | Intermediate JavaScript Project — Planned | ⏳ Planned |
-| Day 19 | Intermediate JavaScript Project — Planned | ⏳ Planned |
-| Day 20 | Intermediate JavaScript Project — Planned | ⏳ Planned |
-| Day 21 | Advanced JavaScript Project — Planned | ⏳ Planned |
-| Day 22 | Advanced JavaScript Project — Planned | ⏳ Planned |
-| Day 23 | Advanced JavaScript Project — Planned | ⏳ Planned |
-| Day 24 | Advanced JavaScript Project — Planned | ⏳ Planned |
-| Day 25 | Advanced JavaScript Project — Planned | ⏳ Planned |
-| Day 26 | Advanced JavaScript Project — Planned | ⏳ Planned |
-| Day 27 | Advanced JavaScript Project — Planned | ⏳ Planned |
-| Day 28 | Advanced JavaScript Project — Planned | ⏳ Planned |
-| Day 29 | Advanced JavaScript Project — Planned | ⏳ Planned |
-| Day 30 | Final JavaScript Project — Planned | ⏳ Planned |
+| Day 18 | Bank Account Transaction Analyzer — Array Methods, Objects, Transaction Validation, `map()`, `filter()`, `reduce()`, `some()` | ✅ Completed |
+| Day 19 | Intermediate JavaScript Project | ⏳ Planned |
+| Day 20 | Intermediate JavaScript Project | ⏳ Planned |
+| Day 21 | Advanced JavaScript Project | ⏳ Planned |
+| Day 22 | Advanced JavaScript Project | ⏳ Planned |
+| Day 23 | Advanced JavaScript Project | ⏳ Planned |
+| Day 24 | Advanced JavaScript Project | ⏳ Planned |
+| Day 25 | Advanced JavaScript Project | ⏳ Planned |
+| Day 26 | Advanced JavaScript Project | ⏳ Planned |
+| Day 27 | Advanced JavaScript Project | ⏳ Planned |
+| Day 28 | Advanced JavaScript Project | ⏳ Planned |
+| Day 29 | Advanced JavaScript Project | ⏳ Planned |
+| Day 30 | Final JavaScript Project | ⏳ Planned |
 
 ## 📂 Repository Structure
 
@@ -88,6 +105,9 @@ javascript-in-30-days/
 ├── day1.js
 ├── day2.js
 ├── day3.js
+├── ...
+├── day17.js
+├── day18.js
 ├── ...
 ├── day30.js
 └── README.md
@@ -103,14 +123,17 @@ javascript-in-30-days/
 
 ## 🛠️ Tools Used
 
-- JavaScript (Node.js)
+- JavaScript
+- Node.js
 - Visual Studio Code
 - Git and GitHub
 
 ## 📚 Learning Source
 
-JavaScript learning resources, documentation, and hands-on practice.
+JavaScript tutorials, documentation, and hands-on coding practice.
 
 ## 📈 Current Progress
 
-**Day 17 complete — 13 days to go!** 🚀
+**Day 18 completed — 12 days to go!** 🚀
+
+One day at a time, one project at a time.
