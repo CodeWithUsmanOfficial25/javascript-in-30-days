@@ -49,6 +49,7 @@ This repository contains **30 days of JavaScript code**, with each day's program
 - DOM manipulation and browser events
 - Fetch API and working with external data
 - JavaScript modules and practical APIs
+- Financial data analysis and category-based budget tracking
 
 ### Advanced JavaScript (Days 21–30)
 
@@ -86,7 +87,7 @@ This repository contains **30 days of JavaScript code**, with each day's program
 | Day 17 | Weather Data Analyzer — `map()`, `filter()`, `reduce()`, `some()`, `every()`, `sort()` | ✅ Completed |
 | Day 18 | Bank Account Transaction Analyzer — Array Methods, Objects, Transaction Validation, `map()`, `filter()`, `reduce()`, `some()` | ✅ Completed |
 | Day 19 | E-Commerce Order Management System — Nested Objects, `map()`, `filter()`, `find()`, `reduce()`, `some()`, `every()`, Data Validation, Revenue Analysis, Sorting | ✅ Completed |
-| Day 20 | Intermediate JavaScript Project | ⏳ Planned |
+| Day 20 | Personal Finance & Budget Analyzer — Objects, Functions, Data Validation, `map()`, `filter()`, `reduce()`, `find()`, `some()`, `every()`, `sort()`, Budget Analysis | ✅ Completed |
 | Day 21 | Advanced JavaScript Project | ⏳ Planned |
 | Day 22 | Advanced JavaScript Project | ⏳ Planned |
 | Day 23 | Advanced JavaScript Project | ⏳ Planned |
@@ -108,6 +109,8 @@ javascript-in-30-days/
 ├── ...
 ├── day17.js
 ├── day18.js
+├── day19.js
+├── day20.js
 ├── ...
 ├── day30.js
 └── README.md
@@ -134,6 +137,10 @@ JavaScript tutorials, documentation, and hands-on coding practice.
 
 ## 📈 Current Progress
 
-**Day 19 completed — 11 days to go!** 🚀
+**Day 20 completed — 10 days to go!** 🚀
+
+- Beginner JavaScript: 10/10 days completed
+- Intermediate JavaScript: 10/10 days completed
+- Advanced JavaScript: 0/10 days completed
 
 One day at a time, one project at a time.
