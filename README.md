@@ -88,7 +88,7 @@ This repository contains **30 days of JavaScript code**, with each day's program
 | Day 18 | Bank Account Transaction Analyzer — Array Methods, Objects, Transaction Validation, `map()`, `filter()`, `reduce()`, `some()` | ✅ Completed |
 | Day 19 | E-Commerce Order Management System — Nested Objects, `map()`, `filter()`, `find()`, `reduce()`, `some()`, `every()`, Data Validation, Revenue Analysis, Sorting | ✅ Completed |
 | Day 20 | Personal Finance & Budget Analyzer — Objects, Functions, Data Validation, `map()`, `filter()`, `reduce()`, `find()`, `some()`, `every()`, `sort()`, Budget Analysis | ✅ Completed |
-| Day 21 | Advanced JavaScript Project | ⏳ Planned |
+| Day 21 | Smart File Organizer — `Map`, `Set`, Object Methods, String Methods, Data Validation, Grouping, Duplicate Detection, Sorting, Report Generation | ✅ Completed |
 | Day 22 | Advanced JavaScript Project | ⏳ Planned |
 | Day 23 | Advanced JavaScript Project | ⏳ Planned |
 | Day 24 | Advanced JavaScript Project | ⏳ Planned |
@@ -111,6 +111,7 @@ javascript-in-30-days/
 ├── day18.js
 ├── day19.js
 ├── day20.js
+├── day21.js
 ├── ...
 ├── day30.js
 └── README.md
@@ -137,10 +138,10 @@ JavaScript tutorials, documentation, and hands-on coding practice.
 
 ## 📈 Current Progress
 
-**Day 20 completed — 10 days to go!** 🚀
+**Day 21 completed — 9 days to go!** 🚀
 
 - Beginner JavaScript: 10/10 days completed
 - Intermediate JavaScript: 10/10 days completed
-- Advanced JavaScript: 0/10 days completed
+- Advanced JavaScript: 1/10 days completed
 
 One day at a time, one project at a time.
