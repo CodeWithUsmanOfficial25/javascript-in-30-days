@@ -1,103 +1,85 @@
+
 # JavaScript in 30 Days 🚀
 
-My 30-day journey to learn JavaScript from beginner to advanced through practical coding and concept-focused programs.
-
-This repository contains **30 days of JavaScript code**, with each day's program designed to demonstrate and reinforce important concepts. The goal is to build a strong foundation in JavaScript and gradually progress toward advanced concepts and real-world applications.
+A practical journey from beginner to advanced JavaScript through 30 days of coding, problem-solving, and real-world projects.
 
 ## 🎯 Goals
 
-- Strengthen JavaScript fundamentals through practical coding.
+- Build a strong foundation in JavaScript.
+- Practice concepts through practical projects.
 - Improve problem-solving and logical thinking.
 - Learn modern JavaScript features and programming patterns.
-- Build projects that demonstrate real-world use cases.
-- Maintain consistent coding practice and track progress on GitHub.
+- Build a consistent GitHub contribution habit.
+- Develop skills useful for frontend and backend development.
 
 ## 🗺️ Learning Roadmap
 
 ### Beginner JavaScript (Days 1–10)
 
-- Variables, constants, and data types
-- Type conversion and operators
-- Conditional statements and loops
-- Functions, parameters, and return values
-- Arrays and objects
-- Object manipulation and nested objects
-- Object destructuring and freezing
-- String methods and array methods
-- Scope, lexical scope, and variable shadowing
-- Callbacks and higher-order functions
-- The `this` keyword and function context
-- Method borrowing with `call()`, `apply()`, and `bind()`
-- Rest parameters and spread syntax
-- Closures, private variables, and encapsulation
-- Constructor functions and object instances
+- Variables, Constants, Data Types, and Console Methods
+- Type Conversion, Operators, and Comparisons
+- Arrays, Objects, Functions, Loops, and Conditions
+- Nested Objects, Destructuring, and Object Methods
+- Scope, Lexical Scope, and Variable Shadowing
+- Callbacks and Higher-Order Functions
+- `this`, `call()`, `apply()`, and `bind()`
+- Spread Syntax, Rest Parameters, and Destructuring
+- Closures, Encapsulation, and Private Variables
+- Constructor Functions and Prototypes
 
 ### Intermediate JavaScript (Days 11–20)
 
-- Prototypes and prototype-based method sharing
-- Array sorting and custom comparison functions
-- Data transformation with `map()`, `filter()`, and `reduce()`
-- ES6 classes, inheritance, and the `super()` keyword
-- Getters, setters, and static methods
-- Error handling with `try...catch...finally`
-- Throwing errors and input validation
-- Defensive programming and safe data processing
-- Searching, filtering, and generating reports
-- Promises and asynchronous task processing
-- `async/await` and asynchronous error handling
-- Array iteration, validation, and data analysis
-- DOM manipulation and browser events
-- Fetch API and working with external data
-- JavaScript modules and practical APIs
-- Financial data analysis and category-based budget tracking
+- Array Sorting and Inventory Calculations
+- Prototype Inheritance and Method Overriding
+- Classes, Inheritance, Getters, Setters, and Static Methods
+- Error Handling and Custom Errors
+- Searching, Filtering, and Student Record Management
+- Promises and `async/await`
+- Weather Data Analysis with Array Methods
+- Bank Account Transaction Analysis
+- E-Commerce Order Management and Revenue Analysis
+- Personal Finance and Budget Analysis
 
-### Advanced JavaScript (Days 21–30)
+### Advanced JavaScript Project (Days 21–30)
 
-- Object-oriented JavaScript and real-world applications
-- Advanced asynchronous programming
-- API integration and data handling
-- Reusable code and modular architecture
-- Advanced array and object operations
-- Practical application development
-- Error handling and debugging strategies
-- Code organization and maintainability
-- Problem-solving with combined JavaScript concepts
-- A final JavaScript project
+- Smart File Organizer using `Map` and `Set`
+- Smart Event Scheduler and Conflict Detector
+- Days 23–30: Advanced JavaScript Projects — Planned
 
 ## 📅 30-Day Progress
 
-| Day | Program / Code Concepts | Status |
-|---|---|---|
-| Day 01 | Personal Expense Tracker — Variables, Constants, Data Types, Console Methods | ✅ Completed |
-| Day 02 | Shopping Cart Price Calculator — Type Conversion, Arithmetic Operations, Comparisons, Primitive Value Copying | ✅ Completed |
-| Day 03 | Student Result Management System — Arrays, Objects, Functions, Loops, Conditional Statements, Grade Calculation | ✅ Completed |
-| Day 04 | Smart Contact Book — Nested Objects, Object Destructuring, String Methods, `Object.freeze()`, `find()`, `filter()`, `map()` | ✅ Completed |
-| Day 05 | Variable Scope Explorer — Function Scope, Block Scope, Lexical Scope, Variable Shadowing, Scope Chain | ✅ Completed |
-| Day 06 | Callback Task Processor — Callbacks, Higher-Order Functions, Arrow Functions, Return Values | ✅ Completed |
-| Day 07 | Service Booking Manager — `this`, Object Methods, `call()`, `apply()`, `bind()` | ✅ Completed |
-| Day 08 | Smart Profile & Data Manager — Rest Parameters, Spread Syntax, Array and Object Copying, Destructuring, Default Values | ✅ Completed |
-| Day 09 | Secure Account & Session Manager — Closures, Lexical Scope, Private Variables, Encapsulation, Factory Functions, State Management | ✅ Completed |
-| Day 10 | Product Management System — Constructor Functions, `new`, Prototypes, Shared Methods, Object Instances, `instanceof` | ✅ Completed |
-| Day 11 | Product Inventory Search & Sort System — `sort()`, Custom Comparison Functions, `find()`, `filter()`, `map()`, `reduce()`, Inventory Calculations | ✅ Completed |
-| Day 12 | Prototype Inheritance Manager — Prototypes, Prototype Chain, `Object.create()`, Method Inheritance, Method Overriding | ✅ Completed |
-| Day 13 | Employee Payroll Management System — Classes, Inheritance, Getters, Setters, Static Methods | ✅ Completed |
-| Day 14 | Secure Payment Processing System — `try...catch...finally`, `throw`, Custom Errors, Input Validation | ✅ Completed |
-| Day 15 | Student Record Management System — Array Methods, Searching, Filtering, `reduce()`, Grade Calculation | ✅ Completed |
-| Day 16 | Task Processing System — Promises, `async/await`, Asynchronous Execution, Custom Errors | ✅ Completed |
-| Day 17 | Weather Data Analyzer — `map()`, `filter()`, `reduce()`, `some()`, `every()`, `sort()` | ✅ Completed |
-| Day 18 | Bank Account Transaction Analyzer — Array Methods, Objects, Transaction Validation, `map()`, `filter()`, `reduce()`, `some()` | ✅ Completed |
-| Day 19 | E-Commerce Order Management System — Nested Objects, `map()`, `filter()`, `find()`, `reduce()`, `some()`, `every()`, Data Validation, Revenue Analysis, Sorting | ✅ Completed |
-| Day 20 | Personal Finance & Budget Analyzer — Objects, Functions, Data Validation, `map()`, `filter()`, `reduce()`, `find()`, `some()`, `every()`, `sort()`, Budget Analysis | ✅ Completed |
-| Day 21 | Smart File Organizer — `Map`, `Set`, Object Methods, String Methods, Data Validation, Grouping, Duplicate Detection, Sorting, Report Generation | ✅ Completed |
-| Day 22 | Advanced JavaScript Project | ⏳ Planned |
-| Day 23 | Advanced JavaScript Project | ⏳ Planned |
-| Day 24 | Advanced JavaScript Project | ⏳ Planned |
-| Day 25 | Advanced JavaScript Project | ⏳ Planned |
-| Day 26 | Advanced JavaScript Project | ⏳ Planned |
-| Day 27 | Advanced JavaScript Project | ⏳ Planned |
-| Day 28 | Advanced JavaScript Project | ⏳ Planned |
-| Day 29 | Advanced JavaScript Project | ⏳ Planned |
-| Day 30 | Final JavaScript Project | ⏳ Planned |
+| Day | Project | Concepts | Status |
+|---|---|---|---|
+| 1 | Personal Expense Tracker | Variables, Constants, Data Types, Console Methods | ✅ Completed |
+| 2 | Shopping Cart Price Calculator | Type Conversion, Arithmetic Operations, Comparisons | ✅ Completed |
+| 3 | Student Result Management System | Arrays, Objects, Functions, Loops, Conditions | ✅ Completed |
+| 4 | Smart Contact Book | Nested Objects, Destructuring, String Methods, Array Methods | ✅ Completed |
+| 5 | Variable Scope Explorer | Function Scope, Block Scope, Lexical Scope, Shadowing | ✅ Completed |
+| 6 | Callback Task Processor | Callbacks, Higher-Order Functions, Arrow Functions | ✅ Completed |
+| 7 | Service Booking Manager | `this`, Object Methods, `call()`, `apply()`, `bind()` | ✅ Completed |
+| 8 | Smart Profile & Data Manager | Spread Syntax, Rest Parameters, Copying, Destructuring | ✅ Completed |
+| 9 | Secure Account & Session Manager | Closures, Encapsulation, Private Variables, State Management | ✅ Completed |
+| 10 | Product Management System | Constructor Functions, Prototypes, `new`, `instanceof` | ✅ Completed |
+| 11 | Product Inventory Search & Sort System | Sorting, Searching, Filtering, `reduce()` | ✅ Completed |
+| 12 | Prototype Inheritance Manager | Prototype Chain, `Object.create()`, Method Overriding | ✅ Completed |
+| 13 | Employee Payroll Management System | Classes, Inheritance, Getters, Setters, Static Methods | ✅ Completed |
+| 14 | Secure Payment Processing System | `try...catch...finally`, `throw`, Custom Errors, Validation | ✅ Completed |
+| 15 | Student Record Management System | Array Methods, Searching, Filtering, Grade Calculation | ✅ Completed |
+| 16 | Task Processing System | Promises, `async/await`, Asynchronous Execution, Custom Errors | ✅ Completed |
+| 17 | Weather Data Analyzer | `map()`, `filter()`, `reduce()`, `some()`, `every()`, `sort()` | ✅ Completed |
+| 18 | Bank Account Transaction Analyzer | Transactions, Validation, Array Methods, Balance Analysis | ✅ Completed |
+| 19 | E-Commerce Order Management System | Nested Objects, Validation, Order Analysis, Revenue Calculation | ✅ Completed |
+| 20 | Personal Finance & Budget Analyzer | Data Validation, Array Methods, Budget Analysis | ✅ Completed |
+| 21 | Smart File Organizer | `Map`, `Set`, Grouping, Duplicate Detection, Report Generation | ✅ Completed |
+| 22 | Smart Event Scheduler & Conflict Detector | Date Validation, Time Comparison, Conflict Detection, Sorting, `reduce()`, Reporting | ✅ Completed |
+| 23 | Advanced JavaScript Project | Advanced JavaScript Concepts | ⏳ Planned |
+| 24 | Advanced JavaScript Project | Advanced JavaScript Concepts | ⏳ Planned |
+| 25 | Advanced JavaScript Project | Advanced JavaScript Concepts | ⏳ Planned |
+| 26 | Advanced JavaScript Project | Advanced JavaScript Concepts | ⏳ Planned |
+| 27 | Advanced JavaScript Project | Advanced JavaScript Concepts | ⏳ Planned |
+| 28 | Advanced JavaScript Project | Advanced JavaScript Concepts | ⏳ Planned |
+| 29 | Advanced JavaScript Project | Advanced JavaScript Concepts | ⏳ Planned |
+| 30 | Final JavaScript Project | Combined JavaScript Concepts | ⏳ Planned |
 
 ## 📂 Repository Structure
 
@@ -106,42 +88,56 @@ javascript-in-30-days/
 ├── day1.js
 ├── day2.js
 ├── day3.js
-├── ...
+├── day4.js
+├── day5.js
+├── day6.js
+├── day7.js
+├── day8.js
+├── day9.js
+├── day10.js
+├── day11.js
+├── day12.js
+├── day13.js
+├── day14.js
+├── day15.js
+├── day16.js
 ├── day17.js
 ├── day18.js
 ├── day19.js
 ├── day20.js
 ├── day21.js
-├── ...
-├── day30.js
+├── day22.js
 └── README.md
 ```
 
 ## 🎯 Learning Approach
 
-- Practice JavaScript concepts through practical programs.
-- Build projects that gradually increase in complexity.
-- Write readable, maintainable code.
-- Use Git and GitHub to track progress.
-- Strengthen problem-solving skills through hands-on implementation.
+- Complete one practical project each day.
+- Apply previously learned concepts in new situations.
+- Use meaningful variable names and readable code.
+- Practice validation, error handling, and problem-solving.
+- Run and test each project before committing.
+- Track progress with separate code and README commits.
 
 ## 🛠️ Tools Used
 
-- JavaScript
-- Node.js
+- JavaScript (Node.js)
 - Visual Studio Code
 - Git and GitHub
+- PowerShell
 
 ## 📚 Learning Source
 
-JavaScript tutorials, documentation, and hands-on coding practice.
+- Chai aur Code — JavaScript learning and practice
+- Official JavaScript documentation: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- Practical coding and independent project development
 
 ## 📈 Current Progress
 
-**Day 21 completed — 9 days to go!** 🚀
+**Day 22 completed — 8 days to go!** 🚀
 
 - Beginner JavaScript: 10/10 days completed
 - Intermediate JavaScript: 10/10 days completed
-- Advanced JavaScript: 1/10 days completed
+- Advanced JavaScript: 2/10 days completed
 
 One day at a time, one project at a time.
