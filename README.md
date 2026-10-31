@@ -45,7 +45,8 @@ A practical journey from beginner to advanced JavaScript through 30 days of codi
 - Smart File Organizer using `Map` and `Set`
 - Smart Event Scheduler and Conflict Detector
 - Real-Time Log Monitoring and Alert System
-- Days 24–30: Advanced JavaScript Projects — Planned
+- Smart API Request and Response Manager
+- Days 25–30: Advanced JavaScript Projects — Planned
 
 ## 📅 30-Day Progress
 
@@ -74,7 +75,7 @@ A practical journey from beginner to advanced JavaScript through 30 days of codi
 | 21 | Smart File Organizer | `Map`, `Set`, Grouping, Duplicate Detection, Report Generation | ✅ Completed |
 | 22 | Smart Event Scheduler & Conflict Detector | Date Validation, Time Comparison, Conflict Detection, Sorting, `reduce()`, Reporting | ✅ Completed |
 | 23 | Real-Time Log Monitoring & Alert System | `Map`, `Set`, Log Validation, Error Detection, Frequency Analysis, Service Monitoring, Alert Generation | ✅ Completed |
-| 24 | Advanced JavaScript Project | Advanced JavaScript Concepts | ⏳ Planned |
+| 24 | Smart API Request & Response Manager | Promises, `async/await`, `Promise.allSettled()`, Retry Mechanism, Exponential Backoff, Error Handling, Response Analysis | ✅ Completed |
 | 25 | Advanced JavaScript Project | Advanced JavaScript Concepts | ⏳ Planned |
 | 26 | Advanced JavaScript Project | Advanced JavaScript Concepts | ⏳ Planned |
 | 27 | Advanced JavaScript Project | Advanced JavaScript Concepts | ⏳ Planned |
@@ -109,6 +110,7 @@ javascript-in-30-days/
 ├── day21.js
 ├── day22.js
 ├── day23.js
+├── day24.js
 └── README.md
 ```
 
@@ -136,10 +138,10 @@ javascript-in-30-days/
 
 ## 📈 Current Progress
 
-**Day 23 completed — 7 days to go!** 🚀
+**Day 24 completed — 6 days to go!** 🚀
 
 - Beginner JavaScript: 10/10 days completed
 - Intermediate JavaScript: 10/10 days completed
-- Advanced JavaScript: 3/10 days completed
+- Advanced JavaScript: 4/10 days completed
 
 One day at a time, one project at a time.
