@@ -46,7 +46,8 @@ A practical journey from beginner to advanced JavaScript through 30 days of codi
 - Smart Event Scheduler and Conflict Detector
 - Real-Time Log Monitoring and Alert System
 - Smart API Request and Response Manager
-- Days 25–30: Advanced JavaScript Projects — Planned
+- Real-Time Chat Room and Event Management System
+- Days 26–30: Advanced JavaScript Projects — Planned
 
 ## 📅 30-Day Progress
 
@@ -76,7 +77,7 @@ A practical journey from beginner to advanced JavaScript through 30 days of codi
 | 22 | Smart Event Scheduler & Conflict Detector | Date Validation, Time Comparison, Conflict Detection, Sorting, `reduce()`, Reporting | ✅ Completed |
 | 23 | Real-Time Log Monitoring & Alert System | `Map`, `Set`, Log Validation, Error Detection, Frequency Analysis, Service Monitoring, Alert Generation | ✅ Completed |
 | 24 | Smart API Request & Response Manager | Promises, `async/await`, `Promise.allSettled()`, Retry Mechanism, Exponential Backoff, Error Handling, Response Analysis | ✅ Completed |
-| 25 | Advanced JavaScript Project | Advanced JavaScript Concepts | ⏳ Planned |
+| 25 | Real-Time Chat Room & Event Management System | EventEmitter, Classes, Private Fields, Event Listeners, `Map`, `Set`, Message Moderation, Event Handling | ✅ Completed |
 | 26 | Advanced JavaScript Project | Advanced JavaScript Concepts | ⏳ Planned |
 | 27 | Advanced JavaScript Project | Advanced JavaScript Concepts | ⏳ Planned |
 | 28 | Advanced JavaScript Project | Advanced JavaScript Concepts | ⏳ Planned |
@@ -111,6 +112,7 @@ javascript-in-30-days/
 ├── day22.js
 ├── day23.js
 ├── day24.js
+├── day25.js
 └── README.md
 ```
 
@@ -138,10 +140,10 @@ javascript-in-30-days/
 
 ## 📈 Current Progress
 
-**Day 24 completed — 6 days to go!** 🚀
+**Day 25 completed — 5 days to go!** 🚀
 
 - Beginner JavaScript: 10/10 days completed
 - Intermediate JavaScript: 10/10 days completed
-- Advanced JavaScript: 4/10 days completed
+- Advanced JavaScript: 5/10 days completed
 
 One day at a time, one project at a time.
