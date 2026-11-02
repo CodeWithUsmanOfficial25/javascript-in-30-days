@@ -47,7 +47,8 @@ A practical journey from beginner to advanced JavaScript through 30 days of codi
 - Real-Time Log Monitoring and Alert System
 - Smart API Request and Response Manager
 - Real-Time Chat Room and Event Management System
-- Days 26–30: Advanced JavaScript Projects — Planned
+- Smart Job Application Tracking System
+- Days 27–30: Advanced JavaScript Projects — Planned
 
 ## 📅 30-Day Progress
 
@@ -78,7 +79,7 @@ A practical journey from beginner to advanced JavaScript through 30 days of codi
 | 23 | Real-Time Log Monitoring & Alert System | `Map`, `Set`, Log Validation, Error Detection, Frequency Analysis, Service Monitoring, Alert Generation | ✅ Completed |
 | 24 | Smart API Request & Response Manager | Promises, `async/await`, `Promise.allSettled()`, Retry Mechanism, Exponential Backoff, Error Handling, Response Analysis | ✅ Completed |
 | 25 | Real-Time Chat Room & Event Management System | EventEmitter, Classes, Private Fields, Event Listeners, `Map`, `Set`, Message Moderation, Event Handling | ✅ Completed |
-| 26 | Advanced JavaScript Project | Advanced JavaScript Concepts | ⏳ Planned |
+| 26 | Smart Job Application Tracking System | Classes, Private Fields, Static Methods, Custom Errors, Iterators, Generators, `Map`, `Set`, Application Analytics | ✅ Completed |
 | 27 | Advanced JavaScript Project | Advanced JavaScript Concepts | ⏳ Planned |
 | 28 | Advanced JavaScript Project | Advanced JavaScript Concepts | ⏳ Planned |
 | 29 | Advanced JavaScript Project | Advanced JavaScript Concepts | ⏳ Planned |
@@ -113,6 +114,7 @@ javascript-in-30-days/
 ├── day23.js
 ├── day24.js
 ├── day25.js
+├── day26.js
 └── README.md
 ```
 
@@ -140,10 +142,10 @@ javascript-in-30-days/
 
 ## 📈 Current Progress
 
-**Day 25 completed — 5 days to go!** 🚀
+**Day 26 completed — 4 days to go!** 🚀
 
 - Beginner JavaScript: 10/10 days completed
 - Intermediate JavaScript: 10/10 days completed
-- Advanced JavaScript: 5/10 days completed
+- Advanced JavaScript: 6/10 days completed
 
 One day at a time, one project at a time.
