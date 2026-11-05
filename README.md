@@ -56,7 +56,7 @@ Advanced concepts, practical systems, asynchronous programming, caching, and app
 | Day 26 | Smart Job Application Tracking System | ✅ Completed |
 | Day 27 | Smart API Cache Simulator | ✅ Completed |
 | Day 28 | Smart Feature Flag Manager | ✅ Completed |
-| Day 29 | Coming Soon | ⏳ Pending |
+| Day 29 | Smart Task Queue & Worker System | ✅ Completed |
 | Day 30 | Coming Soon | ⏳ Pending |
 
 ## 📂 Repository Structure
@@ -67,7 +67,7 @@ javascript-in-30-days/
 ├── day2.js
 ├── day3.js
 ├── ...
-├── day28.js
+├── day29.js
 └── README.md
 ```
 
@@ -93,8 +93,8 @@ Chai aur Code — JavaScript Playlist
 
 - Beginner: 10/10 days completed
 - Intermediate: 10/10 days completed
-- Advanced: 8/10 days completed
-- Total: 28/30 days completed
-- Remaining: 2 days
+- Advanced: 9/10 days completed
+- Total: 29/30 days completed
+- Remaining: 1 day
 
 One day at a time, one project at a time.
